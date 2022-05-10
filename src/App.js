@@ -12,7 +12,13 @@ function App() {
     <div className="App">
       <Particles init={particlesInit} options={particlesOptions} />
 
-      <h1>tsParticles in ACTION</h1>
+      <h1>tsParticles in ACTION </h1>
+
+      <h2>
+        {" "}
+        This is the latest library of tsParticles that display at the background
+        of your application{" "}
+      </h2>
     </div>
   );
 }
